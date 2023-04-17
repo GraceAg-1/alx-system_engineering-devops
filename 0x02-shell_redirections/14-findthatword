@@ -1,2 +1,2 @@
 #!/bin/bash
-grp -i "not" /etc/passwd
+grp -i "root" /etc/passwd
